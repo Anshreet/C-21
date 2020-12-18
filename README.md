@@ -1,2 +1,2 @@
-# C-21
-writing functions which can take arguments
+# collisionAlgorithm2
+collision algorithm to detect collision between any two game objects
